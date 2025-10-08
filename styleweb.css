@@ -11,7 +11,7 @@ html {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(7, 55, 81, 0.574), rgba(0, 0, 0, 0.92)), url(../images/ezgif.com-gif-maker.gif);
+    background-image: linear-gradient(rgba(7, 55, 81, 0.574), rgba(0, 0, 0, 0.92)), url(images/ezgif.com-gif-maker.gif);
     background-position: center;
     background-size: cover;
     position: absolute;
